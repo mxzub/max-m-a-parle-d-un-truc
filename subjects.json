@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Mike le poulet sans tête",
+    "short": "L'histoire d'un poulet américain qui a survécu 18 mois après avoir été décapité",
+    "tags": ["nature", "animaux"],
+    "description": "En 1945, un fermier du Colorado a voulu décapiter un de ses poulets pour en faire son dîner. Bien qu'il ait réussi à couper la tête de la volaille, il s'est un peu raté et a épargné le tronc cérébral. Une heureuse combinaison avec un caillot sanguin a permis à l'animal de rester en vie malgré son absence de tête.\n\nVoyant que le poulet bougeait encore, le fermier a décidé de voir combien de temps ça allait durer — et voyant que cela ne semblait pas s'arrêter, il a entrepris de s'occuper de la bête et de pousser l'expérience un peu plus loin.\n\nIl a commencé à le nourrir à la pipette avec un mélange d'eau et de maïs concassé pour éviter que le volatile ne meure de faim, et a commencé à l'emmener faire le tour des foires en l'exhibant comme une attraction. Au plus haut de sa popularité, on estime que l'oiseau générait 4 500 dollars par mois.\n\nIl est mort au bout de 18 mois en s'étouffant avec son propre mucus, alors que son maître avait laissé son matériel ailleurs et n'avait pas de quoi le sauver sous la main.",
+    "opinion": "Principalement parce que l'histoire est marrante. Dans les faits il n'y a pas grand-chose à en conclure, à part que cela semble bien être une histoire vraie. Le fait amusant est que l'article Wikipédia français est écrit au conditionnel et remet en cause la véracité de l'histoire, alors que l'article anglais semble beaucoup plus certain de la chose.",
+    "refs": [
+      { "label": "Mike le poulet sans tête — Wikipédia (FR)", "url": "https://fr.wikipedia.org/wiki/Mike_le_poulet_sans_t%C3%AAte" },
+      { "label": "Mike the Headless Chicken — Wikipedia (EN)", "url": "https://en.wikipedia.org/wiki/Mike_the_Headless_Chicken" },
+      { "label": "L'incroyable histoire de Mike, le poulet sans tête — National Geographic", "url": "https://www.nationalgeographic.fr/video/animaux/insolite-poule-coq-lincroyable-histoire-de-mike-le-poulet-sans-tete" }
+    ],
+    "related": [2]
+  },
+  {
+    "id": 2,
+    "title": "Les grenouilles et l'eau bouillante",
+    "short": "La fable de la grenouille est une fable — l'utiliser pour justifier un raisonnement est fallacieux",
+    "tags": ["science", "animaux", "psychologie"],
+    "description": "La fable de la grenouille est parfois évoquée pour justifier qu'un changement progressif pourrait amener un groupe de gens à considérer comme normale une situation qui s'est pourtant fortement dégradée — au point d'atteindre un état qui ne semblerait pas acceptable aux yeux d'un observateur extérieur.\n\nCette fable repose sur une supposée expérience scientifique. L'idée : si on plonge une grenouille dans l'eau bouillante, elle sauterait immédiatement, alors que si on la plonge dans de l'eau à température ambiante qu'on chauffe progressivement, la grenouille resterait et finirait cuite.\n\nL'expérience originale a bien eu lieu, réalisée par Friedrich Goltz en 1869 — mais elle portait sur la partie du système nerveux qui permet à une grenouille de percevoir des changements lents dans son environnement. La grenouille qui reste dans l'eau est une grenouille décérébrée. Sans son encéphale, elle ne ressent pas les changements lents mais déclenche quand même un réflexe de saut dans l'eau chaude. Une grenouille en parfait état, elle, s'enfuit dès que la température devient trop importante — que ce soit progressivement ou non.",
+    "opinion": "C'est une fable encore utilisée dans son sens populaire comme une vérité vraie, alors que c'est un détournement complet de l'expérience de base. Je pense qu'on peut tout à fait faire confiance aux gens pour dire quand une situation dépasse les bornes. J'en suis d'ailleurs la preuve — j'ai moi-même manifesté contre le CPE quand j'étais lycéen.",
+    "refs": [
+      { "label": "Fable de la grenouille — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Fable_de_la_grenouille" },
+      { "label": "La métaphore de la grenouille cuite — Anne-Lise Fillon, Psychothérapeute", "url": "https://psy-annelisefillon.com/grenouille-cuite/" },
+      { "label": "La grenouille dans la marmite d'eau — Jean-Luc RIO", "url": "https://riojeanluc.com/2023/11/28/la-grenouille-dans-la-marmite-deau/" },
+      { "label": "Le syndrome de la grenouille — carfree.fr", "url": "https://carfree.fr/index.php/2008/07/25/le-syndrome-de-la-grenouille/" }
+    ],
+    "related": [1, 3]
+  },
+  {
+    "id": 3,
+    "title": "Le supposé Syndrome de Stockholm",
+    "short": "Le syndrome de Stockholm est un concept aujourd'hui plutôt contesté, qui résulterait plus de violences policières que d'un coup de foudre pour des ravisseurs",
+    "tags": ["science", "psychologie"],
+    "description": "Le syndrome de Stockholm réfère en théorie à l'idée que, dans des conditions extrêmes, une victime pourrait tomber amoureuse de son ravisseur — qui lui apparaît comme une sorte de sauveur dans la situation de péril, malgré qu'il en soit la source.\n\nCe supposé syndrome a été théorisé par un psychiatre suédois, Nils Bejerot, en août 1973 à la suite d'une prise d'otage à Stockholm. La prise d'otage dure 6 jours, pendant lesquels les 4 otages (3 femmes et 1 homme) sont traités aussi bien que possible par les deux preneurs d'otage, tandis que la police fait preuve de peu de tact et emploie des méthodes discutables. Au fur et à mesure que la méfiance des otages envers la police grandit, la sympathie avec les ravisseurs se solidifie. Lors de la libération, les policiers assistent à des comportements inattendus : des otages insistent pour que les ravisseurs sortent en premier de peur que la police les abatte, et les prennent dans leurs bras pour leur dire au revoir.\n\nBejerot n'a jamais eu d'interaction directe avec les otages ou les ravisseurs malgré son suivi de l'affaire. Il n'est pas incongru de penser que la théorisation d'un « syndrome de Stockholm » ait été plus un moyen d'éviter de mettre en cause la mauvaise gestion de la situation par la police qu'une vraie avancée en psychologie.",
+    "opinion": "C'est encore un exemple de savoir populaire relié vaguement à une approche scientifique, mais qui est en réalité sans fondement solide. Bejerot n'avait probablement pas pour objectif d'explorer le fonctionnement obscur de la pensée humaine, mais plutôt de couvrir ses arrières — en utilisant la marotte ancestrale de la psychiatrie : \"C'est les femmes qui sont hystériques, nous on n'a rien à se reprocher.\"",
+    "refs": [
+      { "label": "Syndrome de Stockholm — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Syndrome_de_Stockholm" },
+      { "label": "Crisis Narratives and Masculinist Protection — International Feminist Journal of Politics", "url": "https://www.tandfonline.com/doi/abs/10.1080/14616742.2015.1042296" }
+    ],
+    "related": [2]
+  }
+]
